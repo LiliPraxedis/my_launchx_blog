@@ -1,6 +1,6 @@
 ---
 title: "Diario de Explorer LaunchX"
-date: 2022-03-01
+date: 2022-04-06
 description: 'Aquí te contaré mi travesía por LaunchX de innovaccion Virtual'
 ---
 
